@@ -1,51 +1,23 @@
 # 🖱 Guilherme Emanuel 
 
-**`Desenvolvedor Web em formação`**
+**`Desenvolvedor Full Stack`**
 
-Me chamo Guilherme Emanuel, sou apaixonado por tecnologia. Sou técnico em informática e formado em Sistemas de Informação. Possuo nível intermediário em inglês, o que me permite consumir conteúdos técnicos e acompanhar materiais internacionais da área.
-Tenho experiência na criação de sites e conhecimentos em programação, desenvolvendo projetos voltados para a web. Gosto de transformar ideias em algo funcional, organizado e bem estruturado, sempre buscando entregar algo que realmente funcione na prática.
+Desenvolvedor full stack, atuo na construção de aplicações web da interface ao servidor, com código organizado e foco em soluções funcionais.
 
 ---
 
-### 🤖 Linguagens e Tecnólogias
+### 🎓 Formação
 
-<img 
-  align="left"
-  alt="html"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+Bacharel em Sistemas de Informação
 
-<img 
-  align="left"
-  alt="css"
-  title="CSS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+---
 
+### 🌐 Portfólio
 
-<img 
-  align="left"
-  alt="css"
-  title="CSS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-          
+https://guilhermeemanuelc.dev
 
-<img 
-  align="left"
-  alt="python"
-  title="PYTHON"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<br/>
-<br/>
+### 🤖 Linguagens e Tecnologias
+
+React, TypeScript, Python, Kotlin, Node.js
